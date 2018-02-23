@@ -58,12 +58,12 @@ NC_007086,314565,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xan
 NC_007109,315456,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia felis,Rickettsia felis URRWXCal2
 NC_007164,306537,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium jeikeium,Corynebacterium jeikeium K411
 NC_007295,262719,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyopneumoniae,Mycoplasma hyopneumoniae J
-NC_007298,159087,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Dechloromonas,Dechloromonas aromatica,Dechloromonas aromatica RCB
+NC_007298,159087,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Azonexaceae,Dechloromonas,Dechloromonas aromatica,Dechloromonas aromatica RCB
 NC_007333,269800,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Thermobifida,Thermobifida fusca,Thermobifida fusca YX
 NC_007349,269797,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina barkeri,Methanosarcina barkeri str. Fusaro
 NC_007356,255470,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,Dehalococcoides,Dehalococcoides mccartyi,Dehalococcoides mccartyi CBDB1
 NC_007406,323098,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Nitrobacter,Nitrobacter winogradskyi,Nitrobacter winogradskyi Nb-255
-CP000117,240292,Bacteria,Cyanobacteria,,Nostocales,Nostocaceae,Anabaena,Anabaena variabilis,Anabaena variabilis ATCC 29413
+CP000117,240292,Bacteria,Cyanobacteria,,Nostocales,Nostocaceae,Trichormus,Trichormus variabilis,Trichormus variabilis ATCC 29413
 NC_007484,323261,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus oceani,Nitrosococcus oceani ATCC 19707
 NC_007481,326442,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas haloplanktis,Pseudoalteromonas haloplanktis TAC125
 NC_007493,272943,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter sphaeroides,Rhodobacter sphaeroides 2.4.1
@@ -86,7 +86,7 @@ NC_007907,138119,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Des
 NC_007899,264202,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia felis,Chlamydia felis Fe/C-56
 NC_007912,203122,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Saccharophagus,Saccharophagus degradans,Saccharophagus degradans 2-40
 NC_007929,362948,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus salivarius,Lactobacillus salivarius UCC118
-NC_007947,265072,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylobacillus,Methylobacillus flagellatus,Methylobacillus flagellatus KT
+NC_007947,265072,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylobacillus,Methylobacillus flagellatus,Methylobacillus flagellatus KT
 NC_007955,259564,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanococcoides,Methanococcoides burtonii,Methanococcoides burtonii DSM 6242
 NC_007948,296591,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,Polaromonas sp. JS666,
 NC_007954,318161,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella denitrificans,Shewanella denitrificans OS217
@@ -121,7 +121,7 @@ NC_008525,278197,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Pe
 NC_008536,234267,Bacteria,Acidobacteria,Solibacteres,Solibacterales,Solibacteraceae,Candidatus Solibacter,Candidatus Solibacter usitatus,Candidatus Solibacter usitatus Ellin6076
 NC_008531,203120,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,
 NC_008541,290399,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. FB24,
-CP000477,349307,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosaetaceae,Methanosaeta,Methanosaeta thermophila,Methanosaeta thermophila PT
+CP000477,349307,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosaetaceae,Methanothrix,Methanothrix thermoacetophila,Methanothrix thermoacetophila PT
 NC_008554,335543,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophobacter fumaroxidans,Syntrophobacter fumaroxidans MPOB
 NC_008555,386043,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria welshimeri,Listeria welshimeri serovar 6b str. SLCC5334
 NC_008576,156889,Bacteria,Proteobacteria,Alphaproteobacteria,Magnetococcales,Magnetococcaceae,Magnetococcus,Magnetococcus marinus,Magnetococcus marinus MC-1
@@ -161,7 +161,7 @@ NC_009446,246195,Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,C
 NC_009480,443906,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Clavibacter,Clavibacter michiganensis,
 NC_009497,347257,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma agalactiae,Mycoplasma agalactiae PG2
 NC_009511,392499,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas wittichii,Sphingomonas wittichii RW1
-NC_009615,435591,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Parabacteroides distasonis,Parabacteroides distasonis ATCC 8503
+NC_009615,435591,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,Parabacteroides distasonis ATCC 8503
 NC_009614,435590,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides vulgatus,Bacteroides vulgatus ATCC 8482
 NC_009633,293826,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Alkaliphilus,Alkaliphilus metalliredigens,Alkaliphilus metalliredigens QYMF
 NC_009635,419665,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus aeolicus,Methanococcus aeolicus Nankai-3
@@ -204,7 +204,7 @@ NC_010506,392500,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,She
 NC_010505,426355,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans,Methylobacterium radiotolerans JCM 2831
 NC_010516,498213,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Clostridium botulinum B
 NC_010524,395495,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Leptothrix,Leptothrix cholodnii,Leptothrix cholodnii SP-6
-NC_010531,452638,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,Polynucleobacter necessarius,
+NC_010531,452638,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,Polynucleobacter necessarius,Polynucleobacter necessarius STIR1
 NC_010545,504474,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium urealyticum,Corynebacterium urealyticum DSM 7109
 NC_010551,398577,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia ambifaria,Burkholderia ambifaria MC40-6
 NC_010556,262543,Bacteria,Firmicutes,Bacilli,Bacillales,,Exiguobacterium,Exiguobacterium sibiricum,Exiguobacterium sibiricum 255-15
@@ -247,7 +247,7 @@ NC_011529,523850,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcacea
 NC_011565,511995,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,,Candidatus Azobacteroides,Candidatus Azobacteroides pseudotrichonymphae,Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2
 NC_011566,225849,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella piezotolerans,Shewanella piezotolerans WP3
 NC_011653,484019,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Thermosipho,Thermosipho africanus,Thermosipho africanus TCF52B
-NC_011662,85643,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Thauera,Thauera sp. MZ1T,
+NC_011662,85643,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Zoogloeaceae,Thauera,Thauera sp. MZ1T,
 NC_011666,395965,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Methylocella,Methylocella silvestris,Methylocella silvestris BL2
 NC_011726,41431,Bacteria,Cyanobacteria,,Oscillatoriales,Cyanothecaceae,Cyanothece,Cyanothece sp. PCC 8801,
 NC_011740,585054,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia fergusonii,Escherichia fergusonii ATCC 35469
@@ -260,7 +260,7 @@ NC_011884,395961,Bacteria,Cyanobacteria,,Oscillatoriales,Cyanothecaceae,Cyanothe
 NC_011894,460265,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium nodulans,Methylobacterium nodulans ORS 2060
 NC_011899,373903,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halothermothrix,Halothermothrix orenii,Halothermothrix orenii H 168
 NC_011898,394503,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium,[Clostridium] cellulolyticum,[Clostridium] cellulolyticum H10
-NC_011916,565050,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,Caulobacter crescentus CB15
+NC_011916,565050,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,Caulobacter vibrioides CB15
 NC_011959,309801,Bacteria,Chloroflexi,Thermomicrobia,Thermomicrobiales,Thermomicrobiaceae,Thermomicrobium,Thermomicrobium roseum,Thermomicrobium roseum DSM 5159
 NC_011985,311403,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens,Agrobacterium radiobacter K84
 NC_011969,361100,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus Q1
@@ -307,8 +307,8 @@ NC_012883,604354,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcacea
 NC_012917,561230,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium carotovorum,
 NC_012918,443144,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sp. M21,
 NC_012962,291112,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus asymbiotica,
-NC_012969,582744,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylovorus,Methylovorus glucosotrophus,Methylovorus glucosetrophus SIP3-4
-NC_012968,583345,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylotenera,Methylotenera mobilis,Methylotenera mobilis JLW8
+NC_012969,582744,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylovorus,Methylovorus glucosotrophus,Methylovorus glucosetrophus SIP3-4
+NC_012968,583345,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylotenera,Methylotenera mobilis,Methylotenera mobilis JLW8
 NZ_GG696889,525376,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis W23144
 NC_012982,582402,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,Hirschia,Hirschia baltica,Hirschia baltica ATCC 49814
 NC_012988,661410,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium extorquens,Methylobacterium extorquens DM4
@@ -444,7 +444,7 @@ NC_014624,903814,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eub
 NC_014650,581103,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,Geobacillus sp. Y4.1MC1,
 NC_014658,523846,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanothermaceae,Methanothermus,Methanothermus fervidus,Methanothermus fervidus DSM 2088
 NC_014722,882378,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia rhizoxinica,Paraburkholderia rhizoxinica HKI 454
-NC_014733,887061,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylovorus,Methylovorus sp. MP688,
+NC_014733,887061,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylovorus,Methylovorus sp. MP688,
 NC_014738,693978,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Riemerella,Riemerella anatipestifer,Riemerella anatipestifer ATCC 11845 = DSM 15868
 NC_014761,670487,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Oceanithermus,Oceanithermus profundus,Oceanithermus profundus DSM 14977
 NC_014760,289397,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovis,Mycoplasma bovis PG45
@@ -453,7 +453,7 @@ NC_014816,573065,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Cau
 NC_014836,653733,Bacteria,Chrysiogenetes,Chrysiogenetes,Chrysiogenales,Chrysiogenaceae,Desulfurispirillum,Desulfurispirillum indicum,Desulfurispirillum indicum S5
 NC_014829,649639,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cellulosilyticus,Bacillus cellulosilyticus DSM 2522
 NC_014830,710696,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Intrasporangium,Intrasporangium calvum,Intrasporangium calvum DSM 43043
-NC_014844,643562,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio aespoeensis,Desulfovibrio aespoeensis Aspo-2
+NC_014844,643562,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Pseudodesulfovibrio,Pseudodesulfovibrio aespoeensis,Pseudodesulfovibrio aespoeensis Aspo-2
 NC_014910,596153,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Alicycliphilus,Alicycliphilus denitrificans,Alicycliphilus denitrificans BC
 NC_014923,765698,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium ciceri,Mesorhizobium ciceri biovar biserrulae
 NC_014924,743721,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,Pseudoxanthomonas suwonensis,Pseudoxanthomonas suwonensis 11-1
@@ -480,7 +480,7 @@ NC_015216,877455,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methan
 NC_015152,158189,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,Sphaerochaeta globosa,Sphaerochaeta globosa str. Buddy
 NC_015145,930171,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter,Pseudarthrobacter phenanthrenivorans,Pseudarthrobacter phenanthrenivorans Sphe3
 NC_015138,643561,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax avenae,
-NZ_CM001149,525370,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus equi,Rhodococcus equi ATCC 33707
+NZ_CM001149,525370,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus hoagii,Rhodococcus hoagii ATCC 33707
 NC_015186,926570,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,Acidiphilium multivorum,Acidiphilium multivorum AIU301
 NC_015276,717774,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,Marinomonas mediterranea,Marinomonas mediterranea MMB-1
 NC_015315,999630,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Thermoproteus,Thermoproteus uzoniensis,Thermoproteus uzoniensis 768-20
@@ -490,7 +490,7 @@ NC_015387,869210,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Ma
 NC_015391,208596,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium,Carnobacterium sp. 17-4,
 NC_015388,880072,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,Desulfobacca,Desulfobacca acetoxidans,Desulfobacca acetoxidans DSM 11109
 NC_015434,263358,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Verrucosispora,Verrucosispora maris,Verrucosispora maris AB-18-032
-NC_015416,990316,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosaetaceae,Methanosaeta,Methanosaeta concilii,Methanosaeta concilii GP6
+NC_015416,990316,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosaetaceae,Methanothrix,Methanothrix soehngenii,Methanothrix soehngenii GP6
 NC_015435,1006006,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,Metallosphaera cuprina,Metallosphaera cuprina Ar-4
 NC_015428,511437,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus buchneri,Lactobacillus buchneri NRRL B-30929
 NC_015474,342949,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,Pyrococcus sp. NA2,
@@ -557,7 +557,7 @@ NC_016147,1045855,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xa
 NC_016114,591167,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces pratensis,Streptomyces pratensis ATCC 33331
 NC_016616,640081,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Azospira,Azospira oryzae,Dechlorosoma suillum PS
 NC_016621,1075399,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Blattabacteriaceae,Blattabacterium,Blattabacterium punctulatus,Blattabacterium sp. (Cryptocercus punctulatus) str. Cpu
-NC_016620,862908,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Halobacteriovoraceae,Halobacteriovorax,Halobacteriovorax marinus,Halobacteriovorax marinus SJ
+NC_016620,862908,Bacteria,Proteobacteria,Oligoflexia,Bacteriovoracales,Halobacteriovoraceae,Halobacteriovorax,Halobacteriovorax marinus,Halobacteriovorax marinus SJ
 NC_016633,158190,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,Sphaerochaeta pleomorpha,Sphaerochaeta pleomorpha str. Grapes
 NC_016631,682795,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Granulicella,Granulicella mallensis,Granulicella mallensis MP5ACTX8
 NC_016630,546269,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Filifactor,Filifactor alocis,Filifactor alocis ATCC 35896
