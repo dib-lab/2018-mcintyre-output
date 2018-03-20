@@ -823,3 +823,4 @@ CR522870.1 Desulfotalea psychrophila LSv54 chromosome
 CP000847.1 Rickettsia akari str. Hartford, complete genome
 AP008226.1 Thermus thermophilus HB8 genomic DNA, complete genome
 AE017125.1 Helicobacter hepaticus ATCC 51449, complete genome
+
