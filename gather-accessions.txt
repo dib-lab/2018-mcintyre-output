@@ -798,3 +798,29 @@ NC_006624.1 Thermococcus kodakarensis KOD1 DNA, complete genome
 NC_010655.1 Akkermansia muciniphila ATCC BAA-835, complete genome
 NC_010694.1 Erwinia tasmaniensis strain ET1/99 complete chromosome
 NZ_CP015876.1 Pseudomonas putida SJTE-1, complete genome
+AWKT01000001.1 Vibrio parahaemolyticus S072 Contig1, whole genome shotgun sequence
+FRAO01000015.1 Flavobacterium johnsoniae strain DSM 2064 genome assembly, contig: Ga0131210_115, whole genome shotgun sequence
+CP000747.1 Phenylobacterium zucineum HLK1, complete genome
+CP002545.1 Pedobacter saltans DSM 12145, complete genome
+CP001891.1 Klebsiella variicola At-22, complete genome
+CP000908.1 Methylobacterium extorquens PA1, complete genome
+CP002207.1 Bacillus atrophaeus 1942, complete genome
+BA000028.3 Oceanobacillus iheyensis HTE831 DNA, complete genome
+FNXC01000011.1 Prevotella ruminicola strain ATCC 19189 genome assembly, contig: EI35DRAFT_scaffold00010.10, whole genome shotgun sequence
+CP000394.1 Granulibacter bethesdensis CGDNIH1, complete genome
+CP002468.1 Bacillus subtilis BSn5, complete genome
+LNBG01000339.1 Mycobacterium avium subsp. hominissuis strain MAHP-10058-06 scf7180000004602, whole genome shotgun sequence
+CP002164.1 Caldicellulosiruptor obsidiansis OB47, complete genome
+CP001632.1 Capnocytophaga ochracea DSM 7271, complete genome
+CP013149.1 Lactobacillus plantarum strain MF1298, complete genome
+FUWK01000085.1 Nitrosomonas europaea strain ATCC 25978 genome assembly, contig: EI56DRAFT_scaffold00085.85, whole genome shotgun sequence
+CP012370.1 Moorella thermoacetica strain DSM 2955, complete genome
+CP001823.1 Sphaerobacter thermophilus DSM 20745 chromosome 1, complete sequence
+NZ_CP012890.1 Lactobacillus gallinarum strain HFD4, complete genome
+CP001185.1 Thermosipho africanus TCF52B, complete genome
+FN555004.1 Helicobacter mustelae 12198 complete genome
+CR522870.1 Desulfotalea psychrophila LSv54 chromosome
+CP000847.1 Rickettsia akari str. Hartford, complete genome
+AP008226.1 Thermus thermophilus HB8 genomic DNA, complete genome
+AE017125.1 Helicobacter hepaticus ATCC 51449, complete genome
+
