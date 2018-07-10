@@ -1,11 +1,21 @@
+from __future__ import print_function
 import csv 
 from sourmash.lca import lca_utils, command_index
 import sys
 sys.path.insert(0, '../2018-ncbi-lineages/')
 import ncbi_taxdump_utils
 import os
+import matplotlib.pyplot as plt
+import seaborn as sns
 from pprint import pprint
 from sourmash.lca import lca_utils, command_index
+from clustergrammer_widget import *
+from ipywidgets import interact, interactive, fixed, interact_manual
+import matplotlib as mpl
+import pandas as pd
+import glob
+import qgrid
+import numpy as np
 
 # Makes acc_to_lineage a global variable 
 
@@ -177,3 +187,87 @@ def compare_lca_gather_to_gather(lca_gather_csv, gather_csv):
     print('\n** in gather but not lca gather:')
     for diff in reg_gather_lineages - lca_gather_lineages:
         print('\t', format_lineage(diff))
+
+def compare_lca_gather_reads_to_truth_fp(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+
+    return len(gather_lineages - truth_lineages)
+
+def compare_gather_reads_to_truth_fp(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+    return len(gather_lineages - truth_lineages)
+
+def compare_lca_gather_contigs_to_truth_fp(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+    return len(gather_lineages - truth_lineages)
+
+def compare_lca_gather_reads_to_truth_tp(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+    return len(truth_lineages.intersection(gather_lineages))
+
+def compare_gather_reads_to_truth_tp(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+
+    return len(truth_lineages.intersection(gather_lineages))
+
+def compare_lca_gather_contigs_to_truth_tp(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+
+    return len(truth_lineages.intersection(gather_lineages))
+
+def compare_lca_gather_reads_to_truth_fn(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+    return len((truth_lineages) - (truth_lineages.intersection(gather_lineages)))
+
+def compare_lca_gather_contigs_to_truth_fn(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_lca_gather_lineages(gather_csv)
+    
+    
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+        
+    return len((truth_lineages) - (truth_lineages.intersection(gather_lineages)))
+
+def compare_gather_reads_to_truth_fn(truth_file, gather_csv):
+    truth = make_truth_lineages(truth_file)
+    gather = make_gather_lineages(gather_csv)
+
+    truth_lineages = set([ t[5] for t in truth ])
+    gather_lineages = set([ row['lineage'] for row in gather ])
+    
+    return len(truth_lineages - gather_lineages)
